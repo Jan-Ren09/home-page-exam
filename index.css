@@ -1,0 +1,54 @@
+* {
+    border: 0;
+    box-sizing: border-box;
+    margin: 0;
+    font-family: "Poppins", sans-serif;
+    
+}
+
+nav.navbar {
+    background-color: rgb(255, 255, 255, 0.9) !important;
+    color: black !important;
+}
+
+body {
+    background-image: url('./images/yuGxHKr5TGrRKZ4dsrVPSVbwK96NHScDqP0SIrZnRRL4zw4E.jpg'); 
+    background-size: cover; 
+    background-position: center; 
+    background-repeat: no-repeat; 
+    margin: 0; 
+}
+
+section.header {
+    background-image: url('./images/coffee-machine-handle-button-cups.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    color: white;
+    height: 50vh;
+}
+
+section.header div.container{
+    background-color: rgba(73, 36, 21, 0.8);
+    background-size: cover;
+}
+
+section.carousel {
+    background-color: rgba(252, 222, 190, 0.9);
+    
+}
+
+#carouselExampleIndicators div.carousel-inner div.carousel-item img{
+    height: 600px;
+    width: 100%;
+    object-fit: cover;
+    
+}
+section.hero {
+    background-color: rgba(212, 210, 165, 0.9);
+
+}
+
+section.footer {
+    background-color: white
+}
